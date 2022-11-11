@@ -1,4 +1,25 @@
-<h1 align="center">Hi 👋, I'm Junior Meneses</h1>
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/6OrCT1jVbonHG/giphy.gif" width="200">
+    <h1 align="center">Hi 👋, I'm Junior Meneses</h1>
+    <h3 align="center">I am a passionate Front-End Developer programmer and I am from Peru. 
+        You can also find me on Facebook, Tik Tok and Instagram.
+    </h3>
+</div>
+<div id="basges" align="center">
+    <a href="https://www.instagram.com/jr.meneses21/" target="_blank">
+        <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=purple&label=jr.meneses21&logo=instagram&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Fjr.meneses21%2F">
+    </a>
+    <a href="https://www.facebook.com/Meneses.Jr" target="_blank">
+        <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&label=Meneses.Jr&logo=facebook&style=flat-square&url=https%3A%2F%2Fwww.facebook.com%2FMeneses.Jr">
+    </a>
+    <a href="https://www.tiktok.com/@rayo.dev21" target="_blank">
+        <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=black&label=rayo.dev21&logo=TikTok&style=flat-square&url=https%3A%2F%2Fwww.facebook.com%2FMeneses.Jr">
+    </a>
+    <a href="https://www.linkedin.com/in/jr-meneses-06b842250/" target="_blank">
+        <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&label=Jr.Meneses&logo=linkedin&logoColor=red&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjr-meneses-06b842250%2F">
+    </a>
+</div>
+
 <h3 align="center">Soy un Front-End Developer</h3>
 
 - 💬 Ask me about **html, css y Javascript**
